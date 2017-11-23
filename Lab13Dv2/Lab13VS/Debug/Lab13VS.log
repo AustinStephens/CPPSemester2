@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\semester 2\lab13dv2\lab13vs\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Lab13VS.vcxproj -> D:\semester 2\Lab13Dv2\Debug\Lab13VS.exe
+  Lab13VS.vcxproj -> D:\semester 2\Lab13Dv2\Debug\Lab13VS.pdb (Partial PDB)
